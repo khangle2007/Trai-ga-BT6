@@ -39,6 +39,7 @@ dependencies {
     implementation(libs.material)
     implementation(libs.recyclerview)
     implementation("com.github.bumptech.glide:glide:4.16.0")
+    implementation("com.wajahatkarim:EasyFlipView:3.0.3")
     testImplementation(libs.junit)
     androidTestImplementation(libs.espresso.core)
     androidTestImplementation(libs.ext.junit)

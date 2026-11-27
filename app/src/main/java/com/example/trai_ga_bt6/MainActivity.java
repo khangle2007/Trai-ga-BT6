@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         ArrayList<Album> albums = AlbumData.loadAlbums(this);
 
-        AlbumAdapter adapter = new AlbumAdapter(albums);
+        AlbumAdapter adapter = new AlbumAdapter(albums, getSupportFragmentManager());
 
         rAlbum.setLayoutManager(new GridLayoutManager(this, 3));
         rAlbum.setAdapter(adapter);
