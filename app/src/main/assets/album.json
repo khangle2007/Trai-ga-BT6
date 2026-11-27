@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800",
+    "date": "15/01/2025",
+    "description": "Bức ảnh ghi lại khung cảnh thiên nhiên rộng lớn với những dãy núi nối tiếp nhau đến tận đường chân trời. Phía dưới là một thung lũng xanh mát, nơi ánh nắng nhẹ nhàng xuyên qua những tầng mây và chiếu xuống mặt đất. Sự kết hợp giữa màu xanh của cây cối, màu trắng của mây trời và những gam màu trầm của núi đá tạo nên một khung cảnh vừa hùng vĩ vừa yên bình.\n\nĐứng trước một không gian rộng lớn như thế này, con người dường như có thể tạm quên đi những áp lực và sự ồn ào của cuộc sống thường ngày. Không có tiếng còi xe, không có những con đường đông đúc, chỉ còn tiếng gió thổi qua những tán cây và âm thanh tự nhiên của núi rừng. Đôi khi, một chuyến đi không cần phải có lịch trình quá phức tạp, bởi chỉ cần được ngắm nhìn cảnh vật và tận hưởng bầu không khí trong lành cũng đã đủ để tạo nên một kỷ niệm đáng nhớ.\n\nThiên nhiên luôn thay đổi theo thời gian. Ánh sáng buổi sáng mang đến cảm giác tươi mới, trong khi ánh hoàng hôn lại khiến cảnh vật trở nên trầm lắng và có phần lãng mạn hơn. Cùng một địa điểm nhưng ở những thời điểm khác nhau, chúng ta có thể nhìn thấy những vẻ đẹp hoàn toàn khác biệt.\n\nĐây cũng là lời nhắc nhở về tầm quan trọng của việc bảo vệ môi trường tự nhiên. Những cánh rừng, dòng sông và dãy núi không chỉ tạo nên cảnh quan đẹp mắt mà còn là nơi sinh sống của vô số loài sinh vật. Việc giữ gìn thiên nhiên hôm nay chính là cách để những thế hệ sau vẫn có cơ hội được nhìn thấy và trải nghiệm những khung cảnh tuyệt đẹp như thế này."
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800",
+    "date": "22/02/2025",
+    "description": "Một hồ nước trong xanh nằm giữa những dãy núi hùng vĩ. Mặt hồ phản chiếu bầu trời và cảnh vật xung quanh, tạo nên một bức tranh thiên nhiên yên tĩnh. Khung cảnh gợi lên cảm giác thư thái, nhẹ nhàng."
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+    "date": "10/03/2025",
+    "description": "Dãy núi trùng điệp bao quanh mặt hồ rộng lớn. Sự kết hợp giữa màu xanh của nước, núi rừng và bầu trời tạo nên một khung cảnh hùng vĩ. Đây là vẻ đẹp đặc trưng của những vùng thiên nhiên còn giữ được nét hoang sơ."
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800",
+    "date": "05/04/2025",
+    "description": "Khu rừng xanh mát với những tia nắng len qua tán cây. Ánh sáng và bóng râm đan xen tạo nên không gian huyền ảo, yên bình. Những khu rừng như thế này đóng vai trò quan trọng trong việc duy trì hệ sinh thái và điều hòa khí hậu."
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800",
+    "date": "18/05/2025",
+    "description": "Khoảnh khắc bình minh khi ánh mặt trời dần xuất hiện phía chân trời. Ánh sáng vàng cam phủ lên cảnh vật, mang đến cảm giác ấm áp và hy vọng. Bình minh thường được xem là biểu tượng cho một khởi đầu mới."
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+    "date": "12/06/2025",
+    "description": "Bãi biển rộng lớn với làn nước xanh trong và bờ cát trải dài. Sóng biển nhẹ nhàng vỗ vào bờ, tạo nên âm thanh đặc trưng của đại dương. Đây là khung cảnh gợi nhắc đến những chuyến đi nghỉ dưỡng và những ngày hè đáng nhớ."
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800",
+    "date": "20/07/2025",
+    "description": "Những con sóng liên tục chuyển động trên mặt biển rộng lớn. Màu sắc và hình dáng của từng con sóng thay đổi theo ánh sáng và thời tiết. Đại dương luôn mang vẻ đẹp vừa mạnh mẽ vừa bình yên."
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+    "date": "08/08/2025",
+    "description": "Một vùng thiên nhiên rộng mở với núi non, cây cối và ánh sáng mặt trời. Khung cảnh thể hiện sự đa dạng và phong phú của môi trường tự nhiên. Mỗi chuyến đi đến những nơi như thế này đều có thể trở thành một kỷ niệm khó quên."
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969?w=800",
+    "date": "14/09/2025",
+    "description": "Những hàng cây xanh tạo thành một không gian rợp bóng mát. Ánh sáng xuyên qua từng tán lá khiến khu rừng trở nên sinh động. Đây là hình ảnh đại diện cho vẻ đẹp tĩnh lặng và sức sống bền bỉ của thiên nhiên."
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800",
+    "date": "18/10/2025",
+    "description": "Ngọn núi nổi bật dưới bầu trời đêm đầy sao. Ánh sáng từ các vì sao tạo nên khung cảnh rộng lớn và kỳ bí. Khi quan sát bầu trời đêm, con người có thể cảm nhận rõ hơn sự bao la của vũ trụ."
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=800",
+    "date": "25/10/2025",
+    "description": "Một đàn hươu đang di chuyển giữa khu rừng rộng lớn. Những tia nắng nhẹ xuyên qua tán cây, chiếu sáng khung cảnh tự nhiên. Hươu là loài động vật ăn cỏ có khả năng thích nghi với nhiều môi trường sống khác nhau. Hình ảnh mang đến cảm giác bình yên, đồng thời nhắc nhở chúng ta về sự phong phú của thế giới động vật hoang dã."
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800",
+    "date": "02/11/2025",
+    "description": "Những đỉnh núi cao phủ tuyết trắng nổi bật giữa bầu trời trong xanh. Các dãy núi nối tiếp nhau tạo nên một khung cảnh hùng vĩ và rộng lớn. Những vùng núi cao thường có khí hậu khắc nghiệt, nhưng lại sở hữu hệ sinh thái đặc biệt. Đây cũng là điểm đến yêu thích của những người đam mê leo núi và khám phá thiên nhiên."
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+    "date": "10/11/2025",
+    "description": "Một con đường nhỏ uốn lượn xuyên qua vùng đất rộng lớn, hai bên là cảnh quan thiên nhiên xanh mát. Những cung đường như thế này thường mang đến trải nghiệm đặc biệt cho những chuyến du lịch khám phá. Đôi khi, điều đáng nhớ nhất trong một hành trình không phải là điểm đến mà chính là những cảnh vật ta bắt gặp trên đường đi."
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://images.unsplash.com/photo-1511497584788-876760111969?w=800",
+    "date": "18/11/2025",
+    "description": "Ánh sáng len qua những tán cây tạo nên các mảng sáng tối đan xen trong khu rừng. Cây xanh không chỉ tạo nên cảnh quan đẹp mắt mà còn hấp thụ khí carbon dioxide và cung cấp oxy cho môi trường. Một khu rừng khỏe mạnh là nơi sinh sống của nhiều loài động vật, thực vật và vi sinh vật."
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800",
+    "date": "25/11/2025",
+    "description": "Mặt trời dần xuất hiện ở đường chân trời, nhuộm vàng cả vùng đất rộng lớn. Khoảnh khắc chuyển giao giữa đêm và ngày luôn mang đến vẻ đẹp rất riêng. Ánh sáng buổi sớm không chỉ làm thay đổi màu sắc cảnh vật mà còn đánh thức mọi hoạt động của thiên nhiên."
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800",
+    "date": "03/12/2025",
+    "description": "Những con sóng biển liên tục chuyển động và va vào nhau dưới tác động của gió. Đại dương chiếm phần lớn diện tích bề mặt Trái Đất và đóng vai trò quan trọng trong việc điều hòa khí hậu. Bên dưới mặt nước là một thế giới đa dạng với vô số loài sinh vật, nhiều loài vẫn chưa được con người khám phá hết."
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+    "date": "12/12/2025",
+    "description": "Một hồ nước nằm giữa những dãy núi xanh, mặt hồ phản chiếu cảnh vật xung quanh gần như một tấm gương khổng lồ. Những hồ nước tự nhiên thường được hình thành qua các quá trình địa chất kéo dài hàng nghìn năm. Chúng cung cấp nguồn nước quan trọng cho hệ sinh thái và tạo nên môi trường sống của nhiều loài sinh vật."
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+    "date": "20/12/2025",
+    "description": "Bãi cát trắng trải dài bên làn nước biển xanh trong. Những đường bọt sóng để lại trên bờ cát tạo nên các họa tiết tự nhiên luôn thay đổi. Bãi biển không chỉ là địa điểm nghỉ dưỡng mà còn là môi trường sống của nhiều loài sinh vật. Việc hạn chế rác thải nhựa là một trong những cách quan trọng để bảo vệ hệ sinh thái biển."
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=800",
+    "date": "28/12/2025",
+    "description": "Một căn nhà nhỏ nằm bên hồ nước, xung quanh được bao phủ bởi núi rừng. Khung cảnh tĩnh lặng khiến nơi đây trở thành hình ảnh lý tưởng cho những ai muốn tránh xa sự ồn ào của thành phố. Những vùng nông thôn và miền núi thường lưu giữ được nét kiến trúc, văn hóa và lối sống gần gũi với thiên nhiên."
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800",
+    "date": "05/01/2026",
+    "description": "Một vùng đất rộng lớn được bao phủ bởi núi non và thảm thực vật xanh. Những lớp địa hình nối tiếp nhau tạo nên chiều sâu cho cảnh quan. Thiên nhiên luôn thay đổi theo mùa, thời tiết và ánh sáng, vì vậy cùng một địa điểm có thể mang đến những vẻ đẹp hoàn toàn khác nhau ở mỗi thời điểm."
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://images.unsplash.com/photo-1500530850857-5c7e5a6e8a5b?w=800",
+    "date": "13/01/2026",
+    "description": "Khung cảnh thiên nhiên rộng mở với những gam màu dịu nhẹ của đất trời. Những vùng đất hoang sơ thường là nơi con người có thể quan sát rõ sự thay đổi của cảnh quan theo ánh sáng và thời tiết. Mỗi chi tiết nhỏ như màu cỏ, hình dáng đám mây hay bóng núi đều góp phần tạo nên vẻ đẹp riêng của bức tranh thiên nhiên."
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800",
+    "date": "21/01/2026",
+    "description": "Một vùng sa mạc rộng lớn với những đồi cát nối tiếp nhau đến tận chân trời. Gió liên tục làm thay đổi hình dạng bề mặt cát, tạo nên những đường cong tự nhiên độc đáo. Dù có điều kiện sống khắc nghiệt, sa mạc vẫn là nơi tồn tại của nhiều loài thực vật và động vật có khả năng thích nghi đặc biệt."
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+    "date": "29/01/2026",
+    "description": "Con đường trải dài giữa một vùng cảnh quan thiên nhiên rộng lớn. Những cung đường vắng vẻ thường tạo cảm giác tự do và thôi thúc con người khám phá những vùng đất mới. Trong lịch sử, đường sá luôn đóng vai trò quan trọng trong việc kết nối các cộng đồng, thúc đẩy giao thương và giao lưu văn hóa."
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800",
+    "date": "06/02/2026",
+    "description": "Một ngọn núi nổi bật dưới bầu trời đêm đầy sao. Khi ánh sáng nhân tạo giảm đi, con người có thể quan sát được nhiều thiên thể hơn trên bầu trời. Các ngôi sao mà chúng ta nhìn thấy thực chất nằm ở những khoảng cách vô cùng lớn. Ánh sáng từ chúng có thể đã bắt đầu hành trình đến Trái Đất từ rất lâu trước khi chúng ta quan sát được."
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800",
+    "date": "14/02/2026",
+    "description": "Mặt biển rộng lớn với những lớp sóng nối tiếp nhau. Đại dương không chỉ chứa đựng nguồn tài nguyên phong phú mà còn góp phần điều chỉnh nhiệt độ và lượng mưa trên toàn cầu. Những dòng hải lưu vận chuyển nhiệt đi khắp hành tinh, tạo ảnh hưởng trực tiếp đến khí hậu của nhiều khu vực."
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76e3?w=800",
+    "date": "22/02/2026",
+    "description": "Không gian rừng xanh với những thân cây cao vươn lên phía trên, tạo thành một mái vòm tự nhiên. Tầng tán rừng là nơi sinh sống và kiếm ăn của nhiều loài chim, côn trùng và động vật nhỏ. Rừng còn giúp giữ đất, hạn chế xói mòn và duy trì nguồn nước cho các khu vực xung quanh."
+  },
+  {
+    "id": 27,
+    "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+    "date": "02/03/2026",
+    "description": "Cảnh quan thiên nhiên trải dài với những vùng đất nối tiếp nhau dưới ánh sáng ban ngày. Những chuyến đi đến các vùng đất mới giúp con người tiếp xúc với những môi trường sống và nền văn hóa khác nhau. Mỗi vùng địa lý đều có những đặc điểm riêng được hình thành qua lịch sử tự nhiên và hoạt động của con người."
+  },
+  {
+    "id": 28,
+    "imageUrl": "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=800",
+    "date": "10/03/2026",
+    "description": "Động vật hoang dã xuất hiện giữa môi trường sống tự nhiên của chúng. Mỗi loài đều có vai trò riêng trong chuỗi thức ăn và sự cân bằng của hệ sinh thái. Khi môi trường sống bị thu hẹp bởi hoạt động của con người, nhiều loài động vật phải đối mặt với nguy cơ suy giảm số lượng. Bảo vệ rừng cũng chính là bảo vệ nơi sinh sống của chúng."
+  },
+  {
+    "id": 29,
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800",
+    "date": "18/03/2026",
+    "description": "Mặt hồ yên tĩnh nằm giữa những ngọn núi, tạo nên khung cảnh hài hòa giữa nước và đất liền. Hồ tự nhiên có thể đóng vai trò như một nguồn dự trữ nước ngọt quan trọng. Ngoài giá trị sinh thái, những hồ nước còn mang ý nghĩa lớn đối với đời sống, văn hóa và hoạt động du lịch của nhiều cộng đồng."
+  },
+  {
+    "id": 30,
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+    "date": "26/03/2026",
+    "description": "Bờ biển trải dài dưới ánh sáng tự nhiên, nơi những con sóng nhẹ nhàng chạm vào bãi cát. Vùng ven biển là nơi giao thoa giữa hệ sinh thái trên cạn và dưới nước, tạo nên môi trường sống đa dạng. Tuy nhiên, xói mòn bờ biển, ô nhiễm và biến đổi khí hậu đang đặt ra nhiều thách thức đối với những khu vực này."
+  }
+]
