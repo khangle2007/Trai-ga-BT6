@@ -17,6 +17,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
 import com.bumptech.glide.Glide;
+import com.wajahatkarim3.easyflipview.EasyFlipView;
 
 public class AlbumDialogFragment extends DialogFragment {
     public static AlbumDialogFragment newInstance(Album album) {
@@ -48,8 +49,13 @@ public class AlbumDialogFragment extends DialogFragment {
         String date = args.getString("date");
         String description = args.getString("description");
 
+        EasyFlipView flipView = view.findViewById(R.id.easyFlipView);
+
         View front = view.findViewById(R.id.front);
         View back = view.findViewById(R.id.back);
+
+        front.setOnClickListener(v -> flipView.flipTheView());
+        back.setOnClickListener(v -> flipView.flipTheView());
 
         ImageView imageView = front.findViewById(R.id.imgAlbum);
         TextView dateFront = front.findViewById(R.id.date);
